@@ -120,6 +120,9 @@ You can also specified the following configurations :
 
 ### Authors
 Erwan Dupeux-Maire
+
 www.upyupy.fr
+
 www.bwat.fr
+
 https://github.com/Choufourax/kohana-compact/
